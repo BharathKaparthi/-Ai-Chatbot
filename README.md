@@ -1,6 +1,4 @@
-Sure! I can help you create a clear and professional **README** for your AI Chatbot project. Here's a step-by-step template you can use and customize:
 
----
 
 # AI Chatbot
 
